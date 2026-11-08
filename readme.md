@@ -50,7 +50,7 @@ Para a correta renderização das páginas e estilos, o projeto possui a seguint
 ```text
 portal-entretenimento/
 │
-├── portal.html         # Página principal do portal
+├── index.html         # Página principal do portal
 ├── reset.css           # Arquivo para reset de estilos padrão do navegador
 ├── estilo.css          # Arquivo para estilização e layout em colunas
 ├── README.md           # Documentação do projeto
@@ -74,11 +74,11 @@ Por ser um site estático (HTML5 e CSS3), não é necessário instalar gerenciad
 
 1. **Faça o clone ou download do repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/portal-entretenimento.git
+   git clone https://github.com/lucas-fersa/segundo_site.git
    ```
 2. **Navegue até a pasta do projeto.**
 3. **Abra o arquivo `index.html`** no seu navegador de preferência (Google Chrome, Firefox, Edge, etc.).
 
 ---
 
-⭐ *Projeto desenvolvido como parte do aprendizado em Desenvolvimento de Sistemas na ETEC!*
+⭐ *Projeto desenvolvido para o curso de Desenvolvimento de Sistemas na ETEC!*
