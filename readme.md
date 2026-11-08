@@ -48,7 +48,7 @@ O portal está dividido em 3 colunas principais:
 Para a correta renderização das páginas e estilos, o projeto possui a seguinte estrutura de pastas:
 
 ```text
-portal-entretenimento/
+segundo_site/
 │
 ├── index.html         # Página principal do portal
 ├── reset.css           # Arquivo para reset de estilos padrão do navegador
